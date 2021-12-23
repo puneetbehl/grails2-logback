@@ -1,0 +1,9 @@
+.idea/
+.classpath
+.project
+.slcache/
+out/
+target/
+*.iml
+.asscache
+
